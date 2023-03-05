@@ -1,3 +1,4 @@
+![elons-toys](https://user-images.githubusercontent.com/44240533/222984452-dccfa726-14f9-4053-82b7-31d117c545fc.svg)
 # Elon's Toy Car
 
 Welcome to Elon's Toy Car on Exercism's Java Track.
